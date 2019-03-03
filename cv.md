@@ -1,19 +1,19 @@
-Azamat Tikenov
+#Azamat Tikenov
 
 azamatkz90@gmail.com
 
-Summary
+##Summary
 
-Skills
+##Skills
 
-Code Sample
+##Code Sample
 
-Experience
+##Experience
 
-**Education**
-Suleyman Demirel University'12
+##Education
+*Suleyman Demirel University'12
 BSc in Information Systems
-University Of Essex'14
+*University Of Essex'14
 MSc in Intelligent Systems
 
 **English level**
