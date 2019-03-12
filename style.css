@@ -1,8 +1,14 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
+  width: 1024px;
+  margin: 0 auto;
 }
 
-.container {
+.container-left {
+  width: 1024px;
+  margin: 0 auto;
+}
+.container-right {
   width: 1024px;
   margin: 0 auto;
 }
