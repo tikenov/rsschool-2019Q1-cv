@@ -1,14 +1,24 @@
+html {
+  box-sizing: border-box;
+  color: rgba(0, 0, 0, 0.8);
+}
+
 body {
   font-family: Arial, Helvetica, sans-serif;
   width: 1024px;
   margin: 0 auto;
+  z-index: 3;
 }
 
 .container-left {
-  width: 1024px;
-  margin: 0 auto;
+  float: left;
+  width: 25%;
+
+  text-align: center;
 }
 .container-right {
-  width: 1024px;
-  margin: 0 auto;
+  padding: 0 30px;
+  background-color: rgba(0, 0, 0, 0.07);
+  float: left;
+  width: 68%;
 }
